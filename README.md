@@ -1,1 +1,1 @@
-# razorpayServer
+# eduzell server
